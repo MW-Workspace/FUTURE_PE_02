@@ -1,8 +1,8 @@
-# Task 4: AI Content Marketing Engine & High-Conversion UGC Ad Creator
+# Task 2: AI Content Marketing Engine & High-Conversion UGC Ad Creator
 
 ## 📊 Evaluation & Track Metadata
 * **Track Code:** PE (Prompt Engineering)
-* **Task Number:** 04
+* **Task Number:** 02
 * **Project Ecosystem Connection:** Katrina Cafe Case Study Series
 * **Repository Visibility:** Public
 
